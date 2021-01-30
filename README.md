@@ -7,6 +7,7 @@
   I design and code beautifully simple things, and I love what I do. <br/>
   I work on Front-end, web development and graphic design as a freelancer. <br/>
 <hr>
+
 Here's the languages and programs that I know ⏩ 
 ![HTML](https://img.shields.io/badge/-HTML-171717?logo=html5&logoColor=E34F26)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS3-171717?logo=css3&logoColor=1572B6)&nbsp;
