@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-### About Me
+### 🧑‍💻 About Me
 
   Hi, I am Oğulcan <br/>
   I design and code beautifully simple things, and I love what I do. <br/>
@@ -24,7 +24,7 @@
 🎮 Playing video games <br/>
 <hr>
 
-### Get in Touch
+### 🙋‍♂️ Get in Touch 
 <p>
 <a href="mailto:cancevdev@gmail.com"><img src="https://img.shields.io/badge/-cancevdev@gmail.com-171717?logo=gmail&logoColor=EA4335"></a>
 <a href="https://cevdev.site/"><img src="https://img.shields.io/badge/-cevdev.site-171717"></a>
