@@ -5,10 +5,11 @@
 
   Hi, I am Oğulcan <br/>
   I design and code beautifully simple things, and I love what I do. <br/>
-  I work on Front-end, web development and graphic design as a freelancer. <br/>
-<hr>
-
-Here's the languages and programs that I know ⏩ 
+  I work on Front-end, web development and graphic design as a freelancer.
+  
+  <hr/>
+  
+### Here's the languages and programs that I know ⏩ 
 ![HTML](https://img.shields.io/badge/-HTML-171717?logo=html5&logoColor=E34F26)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS3-171717?logo=css3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-Javascript-171717?logo=javascript&logoColor=F7DF1E)&nbsp;
@@ -18,7 +19,7 @@ Here's the languages and programs that I know ⏩
 
 ### What do I do for fun?
 🎵 Playing Drums & Guitar <br/>
-🌐 Preparing a site templates
+🌐 Preparing a site templates <br/>
 🔍 Learning and researching new things <br/>
 🎮 Playing video games <br/>
 <hr>
