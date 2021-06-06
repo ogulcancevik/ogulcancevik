@@ -4,7 +4,7 @@
 ### 🧑‍💻 About Me
 
   Hi, I am Oğulcan <br/>
-  I design and code beautifully simple things, and I love what I do. <br/>
+  I design and code beautifully things, and I love what I do. <br/>
   I work on Front-end, web development and graphic design as a freelancer.
   
   <hr/>
