@@ -10,12 +10,14 @@
   <hr/>
   
 ### Here's the languages and programs that I know ⏩ 
-![HTML](https://img.shields.io/badge/-HTML-171717?logo=html5&logoColor=E34F26)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS3-171717?logo=css3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-Javascript-171717?logo=javascript&logoColor=F7DF1E)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-171717?logo=typescript&logoColor=3178C6)&nbsp;
-![React](https://img.shields.io/badge/-ReactJs-171717?logo=react&logoColor=blue)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-171717?logo=php&logoColor=777BB4)&nbsp;
+- `HTML`
+- `CSS/SCSS`
+- `Javascript`
+- `PHP`
+- `ReactJs`
+- `NextJs`
+- `TailwindCSS`
+- `Bootstrap`
 
 ### What do I do for fun?
 🎵 Playing Drums & Guitar <br/>
