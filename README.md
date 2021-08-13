@@ -5,7 +5,7 @@
 
   Hi, I am Oğulcan <br/>
   I design and code beautifully things, and I love what I do. <br/>
-  I work on Front-end, web development and web design as a freelancer.
+  I work on Front-end, web development and web design.
   
   <hr/>
   
