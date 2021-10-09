@@ -15,7 +15,7 @@
 - `Javascript`
 - `PHP`
 - `ReactJs`
-- `NextJs`
+- `VueJs`
 - `TailwindCSS`
 - `Bootstrap`
 
