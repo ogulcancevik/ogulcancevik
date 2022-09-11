@@ -29,6 +29,5 @@
 ### 🙋‍♂️ Get in Touch 
 <p>
 <a href="mailto:cancevdev@gmail.com"><img src="https://img.shields.io/badge/-cancevdev@gmail.com-171717?logo=gmail&logoColor=EA4335"></a>
-<a href="https://cevdev.site/"><img src="https://img.shields.io/badge/-cevdev.site-171717"></a>
 <a href="https://www.linkedin.com/in/o%C4%9Fulcan-%C3%A7evik-3ba1961b3/"><img src="https://img.shields.io/badge/-Linkedin-171717?logo=linkedin&logoColor=0077B5"></a>
 </p>
