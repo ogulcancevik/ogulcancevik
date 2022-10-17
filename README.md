@@ -27,6 +27,7 @@ What do I do for fun?
 <hr>
 
 🙋‍♂️ Get in Touch
+
 <p>
 <a href="mailto:cancevdev@gmail.com“><img src=”https://img.shields.io/badge/-cancevdev@gmail.com-171717?logo=gmail&logoColor=EA4335“></a>
 <a href=”https://www.linkedin.com/in/oğulcan-çevik-3ba1961b3/“><img src=”https://img.shields.io/badge/-Linkedin-171717?logo=linkedin&logoColor=0077B5"></a>
