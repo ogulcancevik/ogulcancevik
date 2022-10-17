@@ -1,6 +1,6 @@
 Hi there 👋
 🧑‍💻 About Me
-Hi i am Oğulcan, I design and code beautifully things, and I love what I do.
+Hi i am Oğulcan, I design and code beautifully things, and I love what I do. <br />
 I am working Frontend & Backend develop in Izmir. I started coding in highschool and since that time i am always enthusiast for develop and learning something from tech. Recently i am working on Javascript Frameworks (ReactJs, VueJs, Nextjs, AlpineJs, Svelte etc.). I always make sure to do my best and generate the finest product I can. Here’s the languages and frameworks that I know:
 
 <hr/>
