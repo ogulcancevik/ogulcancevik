@@ -5,19 +5,20 @@ I am working Frontend & Backend develop in Izmir. I started coding in highschool
 
 <hr/>
 
-Here’s the languages and programs that I know ⏩
-HTML
-CSS/SCSS
-Javascript
-ReactJs
-Redux
-VueJs
-Vuex
-TailwindCSS
-Devextreme
-NodeJs
-ExpressJs
-MongoDB
+Here’s the languages and programs that I know ⏩ <br />
+- `HTML`
+- `CSS/SCSS`
+- `Javascript`
+- `ReactJs`
+- `Redux`
+- `VueJs`
+- `Vuex`
+- `TailwindCSS`
+- `Devextreme`
+- `NodeJs`
+- `ExpressJs`
+- `MongoDB`
+<br />
 What do I do for fun?
 🎵 Playing Drums & Guitar <br/>
 🌐 Preparing a site templates <br/>
