@@ -28,4 +28,4 @@ What do I do for fun?
 
 🙋‍♂️ Get in Touch
 
-[hello@ogulcancevik.com](mailto:hello@ogulcancevik.com)
+[cancevdev@gmail.com](mailto:cancevdev@gmail.com)
