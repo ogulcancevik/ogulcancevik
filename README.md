@@ -19,11 +19,11 @@ Here’s the languages and programs that I know ⏩ <br />
 - `ExpressJs`
 - `MongoDB`
 <br />
-What do I do for fun? <br /> <br />
-🎵 Playing Drums & Guitar <br/>
-🌐 Preparing a site templates <br/>
-🔍 Learning and researching new things <br/>
-🎮 Playing video games <br/>
+What do I do for fun? <br />
+- `🎵 Playing Drums & Guitar`
+- `🌐 Preparing a site templates`
+- `Learning and researching new things`
+- `🎮 Playing video games`
 <hr>
 
 🙋‍♂️ Get in Touch
