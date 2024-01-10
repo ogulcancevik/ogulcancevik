@@ -5,13 +5,6 @@ Currently, I'm working on some exciting full stack web development projects that
 
 I'm always open to new opportunities and collaborations, so feel free to get in touch with me. Let's create something amazing together!  
   
-
-- 🔭 I’m currently working on Assa Technology  
-  
-
-- ❓ Ask me about anything related to Full stack web related technologies  
-  
-
 <br/>  
 
 
