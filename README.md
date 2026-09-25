@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Oğulcan 👋</h1>
-<h3 align="center">Full Stack Developer · Izmir, Turkey</h3>
+<h3 align="center">Frontend-Focused Full Stack Developer · Izmir, Turkey</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/ogulcancevik"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -12,30 +12,31 @@
 
 ### About Me
 
-I build fast, polished web applications end to end, from pixel-perfect interfaces to the APIs and infrastructure behind them. I started coding in high school and have been hooked ever since.
+I've been building software since 2015, with hands-on experience across frontend-focused web and mobile products. I enjoy turning complex product ideas into clean, user-friendly interfaces, keeping performance, maintainability and usability at the center of my work.
 
-- 🔭 Currently building full stack web products with **React**, **Next.js** and **Node.js**
-- 🎯 Focused on clean architecture, performance and attention to detail
-- 🤝 Open to collaborations and new opportunities
+- 🔭 Building web and mobile products with **React**, **Next.js**, **React Native** and **TypeScript**
+- 🧩 Comfortable across the stack, from client apps to **Node.js** APIs and databases
+- 🎯 Focused on performance, maintainability and usability
+- 🤝 Open to new technologies, product challenges and collaborative teams
 
 ### Tech Stack
 
-**Frontend**
+**Frontend & Mobile**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nuxtjs,angular,redux,tailwind,sass,styledcomponents,materialui,bootstrap,html,css,electron,webpack,graphql&perline=9" alt="Frontend" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,react,nextjs,reactnative,vue,nuxtjs,redux,tailwind,sass,html,css,capacitor,graphql&perline=7" alt="Frontend & Mobile" />
 </p>
 
 **Backend & Database**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,firebase,mongodb,mysql" alt="Backend & Database" />
 </p>
 
 **DevOps & Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,nginx" alt="DevOps" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,docker,nginx,linux,figma" alt="DevOps & Tools" />
 </p>
 
 ---
